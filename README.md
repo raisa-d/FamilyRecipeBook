@@ -1,6 +1,6 @@
 <h1 align="center">Family Recipe Book</h1>
 
-<p>This repository holds the cold for Family Recipe Book, a web application designed to help families record and share their recipes so they are easy-to-access and will never be forgotten!</p>
+<p>Family Recipe Book is a CRUD app designed to help families record and share their recipes so they are easy-to-access and will never be forgotten!</p>
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
@@ -49,10 +49,12 @@
 <ul>
     <li>View recipes you have already added to the site.</li>
     <li>Add new recipes to the "book."</li>
+    <li>Edit existing recipes.</li>
+    <li>Delete recipes.</li>
 </ul>
 
 ## Development Stage
-<p>Family Recipe Book is in the beginning stages of development. I am currently in the process of building a static version of this app-- building out the components in the hierarchy.</p>
+<p>I have started building the navbar and homepage components, and am now moving on to creating the static version of the Add Recipe form.</p>
 
 ## Next Steps
 <ol>
@@ -64,14 +66,15 @@
 </ol>
 
 ## Optimizations
-<p>Ways I plan to optimize Family Recipe Book:</p>
 <ol>
     <li>Store data in database rather than local storage</li>
     <li>Add user authentication so family members can login to view their family's recipe book-- title in header will change to "The <LastName's> Recipe Book"</li>
+    <li>Add animations for a better, smoother experience</li>
+    <li>Add Dark Mode</li>
 </ol>
 
 ## Lessons Learned
-<p>So far in this project, I have learned that the most effective way to ensure a project runs smoohtly is to plan it out on paper first. Perhaps I am old school for this, but it really helps to put a basic wireframe on paper and then identify the component hierarchy from there</p>
+<p>Planning on paper first, including sketching wireframes and component hierarchies, helps me streamline the development process and anticipate potential challenges.</p>
 
 ## Contact
 <p> 
