@@ -57,13 +57,19 @@
 </ul>
 
 ## Development Stage
+# Oct 17, 2024
+<p>Today, I built the static version of the Add Recipe form and all of its subcomponents as well as very basic styling. The next step will be to build the About section and then add functionality/state to the Add Recipe section!</p>
+
+# Oct 16, 2024
 <p>I have started building the navbar and homepage components, and am now moving on to creating the static version of the Add Recipe form and the About section. After that, I will focus on adding state/inverse data flow so the users can input their data about the recipes.</p>
 
 ## Next Steps
 <ol>
-    <li>Build static version of "Add Recipe" section</li>
     <li>Build "About section"</li>
     <li>Add inverse data flow so the user can change the data (add recipes)</li>
+    <li>Update recipe cards using user data</li>
+    <li>Add editing functionality</li>
+    <li>Add delete functionality</li>
     <li>Style web app</li>
     <li>After MVP is running, implement optimizations</li>
 </ol>
