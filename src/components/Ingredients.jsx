@@ -4,7 +4,7 @@ const Ingredients = ({ ingredients }) => {
     ))
 
     return (
-        <ul className="bg-purple-200 rounded-2xl p-2"><p className="text-lg italic">Ingredients:</p>
+        <ul className="shadow-xl border-2 border-gray-400 rounded-2xl p-2"><p className="text-lg italic">Ingredients:</p>
             {ingredientsList}
         </ul>
     )

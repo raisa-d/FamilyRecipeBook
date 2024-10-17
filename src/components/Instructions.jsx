@@ -3,7 +3,7 @@ const instruction = 'Preheat oven to 350 degrees and bake for 40-45 minutes (bet
 const Instructions = ({ instructions=instruction }) => {
 
   return (
-    <div className="mt-3 rounded-xl bg-purple-400 p-3">
+    <div className="mt-3 rounded-xl shadow-xl border-2 border-gray-400 p-3">
         <p className="text-lg italic">Instructions:</p>
         <p className="text-m">{ instructions }</p>
     </div>

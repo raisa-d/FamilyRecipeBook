@@ -1,12 +1,16 @@
 import Navbar from './components/Navbar';
 import RecipeSection from './components/RecipeSection';
+import AddRecipeForm from './components/AddRecipeForm';
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
-      <RecipeSection />
-    </div>
+      <div className="flex flex-col items-center">
+        <RecipeSection />
+        <AddRecipeForm />
+      </div>
+    </>
   );
 }
 
