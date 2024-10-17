@@ -1,6 +1,9 @@
 <h1 align="center">Family Recipe Book</h1>
 
-<p>Family Recipe Book is a CRUD app designed to help families record and share their recipes so they are easy-to-access and will never be forgotten!</p>
+<p>
+  Family Recipe Book is a CRUD app designed to help families easily record, access, and share their cherished recipes, ensuring they are never forgotten. 
+  With family members spread across the US and other countries, this app aims to preserve and celebrate family culinary traditions, including my 103-year-old grandmother's recipes, so they can be passed down and enjoyed by future generations.
+</p>
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
