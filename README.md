@@ -57,7 +57,7 @@
 </ul>
 
 ## Development Stage
-<p>I have started building the navbar and homepage components, and am now moving on to creating the static version of the Add Recipe form.</p>
+<p>I have started building the navbar and homepage components, and am now moving on to creating the static version of the Add Recipe form and the About section. After that, I will focus on adding state/inverse data flow so the users can input their data about the recipes.</p>
 
 ## Next Steps
 <ol>
